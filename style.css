@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-image: src="https://static.vecteezy.com/system/resources/thumbnails/000/292/434/small/kgfu_rswx_190123.jpg";
+}
+h1{
+    font-family: 'Turret Road', cursive;
+    color: black;
+}
+.button_nxt_family-member {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: 'Turret Road', cursive;
+  }
+  .button_nxt_family-member {
+    background-color: white; 
+    color: black; 
+    border: 2px solid linear-gradient(to bottom right, purple, orange);
+  }
+  .button_nxt_family-member:hover {
+    background-image: linear-gradient(to bottom right, purple, orange);
+    color: white;
+  }
+  #album {
+    border-radius: 80px;
+    padding: 5px;
+    width: 450px;
+    }
+    #memberss{
+        font-family: 'Turret Road', cursive;
+    }
